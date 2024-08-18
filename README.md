@@ -18,4 +18,4 @@ ___
 
 ### 📖 My stats
 ___
-![RealBytes86's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RealBytes86&theme=tokyonight&hide_border=false) ![RealBytes86's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealBytes86&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![RealBytes86's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RealBytes86&theme=tokyonight&hide_border=true) ![RealBytes86's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealBytes86&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
