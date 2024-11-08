@@ -18,7 +18,7 @@ ___
 
 ### 📖 My stats
 ___
-![reversedcodes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reversedcodes&theme=tokyonight&hide_border=true) ![reversedcodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reversedcodes&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![reversedcodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reversedcodes&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ### 🌐 Discord
 ___
