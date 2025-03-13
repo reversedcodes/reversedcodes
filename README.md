@@ -6,7 +6,7 @@ Hello, I am Reversed Codes. I come from Germany and I am 22 years old. In my fre
 
 ### 🛠️ My programming languages
 ___
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,java,js,php"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,js"/>
 
 ### 🧰 My tools
 ___
