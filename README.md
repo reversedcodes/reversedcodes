@@ -12,9 +12,14 @@ ___
 ___
 <img src="https://skillicons.dev/icons?i=linux,windows"/>
 
-### 📖 My stats
+### 📖 Top Langs
 ___
-![reversedcodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reversedcodes&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reversedcodes&theme=tokyonight&show_icons=true&hide_border=true&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📊 Stats
+___
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=reversedcodes&theme=tokyonight&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
 ### 🌐 Discord
 ___
