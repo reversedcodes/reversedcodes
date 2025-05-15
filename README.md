@@ -1,7 +1,6 @@
 ### 👋 Hello
 ___
 Hello, I am Reversed Codes. I come from Germany and I am 22 years old. I am passionate about computer science and natural sciences, which are also my hobbies. In my free time, I enjoy working on reverse engineering and exploring scientific and technical topics.
-
 [![](https://visitcount.itsvg.in/api?id=RealBytes86&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ### 🛠️ My programming languages
