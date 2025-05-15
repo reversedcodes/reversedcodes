@@ -1,16 +1,12 @@
 ### 👋 Hello
 ___
-Hello, I am Reversed Codes. I come from Germany and I am 22 years old. In my free time, I work on full-stack development, AI, and reverse engineering.
+Hello, I am Reversed Codes. I come from Germany and I am 22 years old. I am passionate about computer science and natural sciences, which are also my hobbies. In my free time, I enjoy working on reverse engineering and exploring scientific and technical topics.
 
 [![](https://visitcount.itsvg.in/api?id=RealBytes86&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ### 🛠️ My programming languages
 ___
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,js,java"/>
-
-### 🧰 My tools
-___
-<img src="https://skillicons.dev/icons?i=git,mongodb,mysql,sqlite,nodejs,npm,nginx,docker"/>
 
 ### 🖥️ My OS
 ___
